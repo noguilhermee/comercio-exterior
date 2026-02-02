@@ -1,6 +1,6 @@
 # Análise de Comércio Exterior - NEPE/UFSJ
 
-Este projeto contém ferramentas e scripts em Python voltados para o processamento, análise e visualização de dados de comércio exterior, desenvolvidos para o **Núcleo de Ensino, Pesquisa e Extensão em Economia (NEPE)** da Universidade Federal de São João del-Rei.
+Este projeto contém ferramentas e scripts em Python voltados para o processamento, análise e visualização de dados de comércio exterior, desenvolvidos para o **Núcleo de Ensino, Pesquisa e Extensão em Economia (NEPE)** da Universidade Federal de São João del-Rei (UFSJ).
 
 ## 📌 Descritivo
 O objetivo principal é automatizar a geração de indicadores de exportação (EXP) e importação (IMP), permitindo a análise temporal e geográfica dos fluxos comerciais. Os scripts processam bases de dados brutas e geram visualizações prontas para relatórios e artigos científicos.
